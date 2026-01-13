@@ -34,13 +34,13 @@
 
 
 ### Proyectos
-🛴 Urban.Scooter - Plataforma web
+🛴 **Urban.Scooter - Plataforma web**
 Validación de una aplicaciónn web destinada al alquiler de scooters eléctricos. Analicé los requisitos funcionales, diseñé y ejecuté casos de prueba aplicando técnicas como partición de equivalencias y valores límite, garantizando la cobertura funcional y la estabilidad del sistema.
 Realicé pruebas de integración de datos y verificación de flujos backend y frontend utilizando Postman y DevTools, asegurando respuestas precisas en las solicitudes y una interacción fluida en la interfaz.
 
 Documenté los hallazgos y reportes de errores en JIRA, priorizando según su severidad e impacto. Este proyecto fortaleció mis habilidades de análisis, planificación de pruebas y comunicación de resultados.
 
-Resultados:
+**Resultados:**
 
 🧪 Diseño y ejecución de casos de prueba para validaciones de API.
 
@@ -48,7 +48,7 @@ Resultados:
 
 🐞 Reporte y documentación de errores en JIRA, clasificados por severidad.
 
-Herramientas y aptitudes:
+**Herramientas y aptitudes:**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
@@ -57,20 +57,20 @@ Herramientas y aptitudes:
 Documentación: Documentacion - Urban.Scooter Test
 
 
-🚕 Urban.Routes - Plataforma web
+🚕 **Urban.Routes - Plataforma web**
 Desarrollé la automatización del flujo completo de reserva de taxi en la aplicación web Urban.Routes, desde la configuración de la ruta hasta la confirmación del viaje, utilizando Selenium WebDriver.
 
 Validé acciones críticas como la selección de tarifa, ingreso de datos de usuario, pago con tarjeta y solicitud de servicios adicionales, garantizando la correcta respuesta de la interfaz ante eventos del usuario.
 
 El proyecto se implementó siguiendo Page Object Model (POM), asegurando una estructura de pruebas modular, mantenible y escalable.
 
-Resultados:
+**Resultados:**
 
 🔁 Automatización integral del flujo de reserva con validación de elementos dinámicos.
 
 💳 Simulación de flujos de pago, incluyendo activación condicional de botones.
 
-Herramientas y aptitudes:
+**Herramientas y aptitudes:**
 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
@@ -78,8 +78,10 @@ Automated Testing | Page Object Model (POM) | UI Testing | XPath / Selectors
 
 Enlace: Urban.Scooter – API Testing Project
 
-📫🤝🏻 Conecta conmigo
+
+📫🤝🏻 **Conecta conmigo**
 Estoy en búsqueda activa de oportunidades como QA Manual, QA Automatizador Junior donde pueda contribuir a la mejora continua de la calidad del software.
+
 
 Connect with me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 
