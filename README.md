@@ -34,7 +34,9 @@
 
 
 ### Proyectos
+
 🛴 **Urban.Scooter - Plataforma web**
+
 Validación de una aplicaciónn web destinada al alquiler de scooters eléctricos. Analicé los requisitos funcionales, diseñé y ejecuté casos de prueba aplicando técnicas como partición de equivalencias y valores límite, garantizando la cobertura funcional y la estabilidad del sistema.
 Realicé pruebas de integración de datos y verificación de flujos backend y frontend utilizando Postman y DevTools, asegurando respuestas precisas en las solicitudes y una interacción fluida en la interfaz.
 
@@ -58,6 +60,7 @@ Documentación: Documentacion - Urban.Scooter Test
 
 
 🚕 **Urban.Routes - Plataforma web**
+
 Desarrollé la automatización del flujo completo de reserva de taxi en la aplicación web Urban.Routes, desde la configuración de la ruta hasta la confirmación del viaje, utilizando Selenium WebDriver.
 
 Validé acciones críticas como la selección de tarifa, ingreso de datos de usuario, pago con tarjeta y solicitud de servicios adicionales, garantizando la correcta respuesta de la interfaz ante eventos del usuario.
@@ -80,6 +83,7 @@ Enlace: Urban.Scooter – API Testing Project
 
 
 📫🤝🏻 **Conecta conmigo**
+
 Estoy en búsqueda activa de oportunidades como QA Manual, QA Automatizador Junior donde pueda contribuir a la mejora continua de la calidad del software.
 
 
