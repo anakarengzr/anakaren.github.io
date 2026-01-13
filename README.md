@@ -2,18 +2,27 @@
 
 ### Profesional en transición al aseguramiento de calidad de softwer | QA Engineer
 💫   Entusiasmada por poder hacer lo que más me gusta, crear soluciones que generen valor y contribuyan al éxito de los proyectos.
+
 💬   Explorando nuevas tecnologías de testing de software
+
 🎓   Estudie Relaciones Internacioanles en la UNAM y me certifique como QA Engineer en Tripleten Bootcamp
+
 🌱   Actualmente practico y estudio SQL y Python
 
 
 ### Habilidades técnicas
 ✅ Diseño y ejecución de casos de prueba
+
 🐞 Identificación y reporte de bugs con claridad
+
 🧪 Pruebas manuales funcionales y no funcionales
+
 ⚙️ Automatización de pruebas con Selenium + Python
+
 🧾 Manejo básico de Postman y pruebas a APIs
+
 💾 Creación de tablas y bases de datos con SQL / PostgreSQL
+
 📋 Creación de reportes de pruebas (JIRA, Google Sheets)
 
 
