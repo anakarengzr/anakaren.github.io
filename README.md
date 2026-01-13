@@ -42,6 +42,7 @@ Resultados:
 Herramientas y aptitudes:
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+
  API Testing | Manual Testing | Test Planning
 
 Documentación: Documentacion - Urban.Scooter Test
@@ -63,6 +64,7 @@ Resultados:
 Herramientas y aptitudes:
 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
 Automated Testing | Page Object Model (POM) | UI Testing | XPath / Selectors
 
 Enlace: Urban.Scooter – API Testing Project
@@ -71,5 +73,7 @@ Enlace: Urban.Scooter – API Testing Project
 Estoy en búsqueda activa de oportunidades como QA Manual, QA Automatizador Junior donde pueda contribuir a la mejora continua de la calidad del software.
 
 Connect with me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) 
+
+Connect with me on ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) 
+
 Enviame un email a ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
