@@ -80,9 +80,7 @@ El proyecto fue implementado siguiendo el patrón Page Object Model (POM), lo qu
 
   <p align="left">
   <img src="assets/Urban.Routes.png" 
-       alt="Ana Karen González" 
-       width="180" 
-       style="border-radius: 50%;" />
+       />
 </p>
 
 **Resultados:**
