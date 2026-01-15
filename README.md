@@ -1,6 +1,12 @@
-# QA Tester 
+# Ana Karen González - QA Tester
 
 ### Profesional en transición al aseguramiento de calidad de softwer | QA Engineer
+
+📍 México  
+🔗 LinkedIn: https://www.linkedin.com/in/karengz-rojas  
+📧 Email: karen.gzrojas@gmail.com 
+
+
 💫   Entusiasmada por poder hacer lo que más me gusta, crear soluciones que generen valor y contribuyan al éxito de los proyectos.
 
 💬   Explorando nuevas tecnologías de testing de software
@@ -86,6 +92,7 @@ Enlace: Urban.Scooter – API Testing Project
 
 Estoy en búsqueda activa de oportunidades como QA Manual, QA Automatizador Junior donde pueda contribuir a la mejora continua de la calidad del software.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/karengz-rojas)
 
 Connect with me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 
