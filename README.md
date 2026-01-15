@@ -2,7 +2,7 @@
   <p align="center">
   <img src="assets/WhatsApp Image 2025-11-03 at 18.35.24_d973e37d.jpg" 
        alt="Ana Karen González" 
-       width="180" 
+       width="190" 
        style="border-radius: 50%;" />
 </p>
 
@@ -49,6 +49,11 @@ Validación de una aplicaciónn web destinada al alquiler de scooters eléctrico
 Realicé pruebas de integración de datos y verificación de flujos backend y frontend utilizando Postman y DevTools, asegurando respuestas precisas en las solicitudes y una interacción fluida en la interfaz.
 
 Documenté los hallazgos y reportes de errores en JIRA, priorizando según su severidad e impacto. Este proyecto fortaleció mis habilidades de análisis, planificación de pruebas y comunicación de resultados.
+
+ <p align="left">
+  <img src="assets/Urban.Scooter.png" 
+       />
+</p>
 
 **Resultados:**
 
