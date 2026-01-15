@@ -2,7 +2,7 @@
   <p align="center">
   <img src="assets/WhatsApp Image 2025-11-03 at 18.35.24_d973e37d.jpg" 
        alt="Ana Karen González" 
-       width="190" 
+       width="290" 
        style="border-radius: 50%;" />
 </p>
 
