@@ -66,16 +66,24 @@ Documenté los hallazgos y reportes de errores en JIRA, priorizando según su se
 
  API Testing | Manual Testing | Test Planning
 
-Documentación: Documentacion - Urban.Scooter Test
+📄 Documentación:  👉 [Urban.Scooter Test](https://drive.google.com/drive/folders/19rTM3KmJJU2RF23ACdQlCl91pPLuRrtc?usp=drive_link)
+
 
 
 🚕 **Urban.Routes - Plataforma web**
 
-Desarrollé la automatización del flujo completo de reserva de taxi en la aplicación web Urban.Routes, desde la configuración de la ruta hasta la confirmación del viaje, utilizando Selenium WebDriver.
+Desarrollé la automatización del flujo completo de reserva de taxi en la aplicación web Urban.Routes, desde la configuración de la ruta hasta la confirmación del viaje, utilizando Selenium WebDriver con Python.
 
-Validé acciones críticas como la selección de tarifa, ingreso de datos de usuario, pago con tarjeta y solicitud de servicios adicionales, garantizando la correcta respuesta de la interfaz ante eventos del usuario.
+Validé acciones críticas como la selección de tarifa, ingreso de datos del usuario, pago con tarjeta y solicitud de servicios adicionales, asegurando la correcta respuesta de la interfaz ante distintos eventos y escenarios de uso.
 
-El proyecto se implementó siguiendo Page Object Model (POM), asegurando una estructura de pruebas modular, mantenible y escalable.
+El proyecto fue implementado siguiendo el patrón Page Object Model (POM), lo que permitió una estructura de pruebas modular, mantenible y escalable, facilitando la reutilización de componentes y la incorporación de nuevos casos de prueba.
+
+  <p align="left">
+  <img src="assets/Urban.Routes.png" 
+       alt="Ana Karen González" 
+       width="180" 
+       style="border-radius: 50%;" />
+</p>
 
 **Resultados:**
 
@@ -89,7 +97,14 @@ El proyecto se implementó siguiendo Page Object Model (POM), asegurando una est
 
 Automated Testing | Page Object Model (POM) | UI Testing | XPath / Selectors
 
-Enlace: Urban.Scooter – API Testing Project
+
+👉 Repositorio:
+https://github.com/karengzrojas/qa-project-Urban-Routes-es
+
+<p>
+</p>
+
+
 
 
 📫🤝🏻 **Conecta conmigo**
