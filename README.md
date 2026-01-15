@@ -1,12 +1,13 @@
 
+  <p align="center">
   <img src="assets/WhatsApp Image 2025-11-03 at 18.35.24_d973e37d.jpg" 
        alt="Ana Karen González" 
        width="180" 
        style="border-radius: 50%;" />
+</p>
 
 
-
-### Profesional en transición al aseguramiento de calidad de softwer | QA Engineer
+### QA Engineer
 
 📍 México  
 
@@ -38,7 +39,7 @@
 
 ### Herramientas y Lenguajes
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) | ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-🛢   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
@@ -95,10 +96,13 @@ Enlace: Urban.Scooter – API Testing Project
 
 Estoy en búsqueda activa de oportunidades como QA Manual, QA Automatizador Junior donde pueda contribuir a la mejora continua de la calidad del software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/karengz-rojas)
+Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/karengz-rojas)
 
-Connect with me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
+Connect with me on [![Discord](https://img.shields.io/badge/Discord-karengzrojas-5865F2?logo=discord&logoColor=white)](https://discord.com/users/karengzrojas)
 
-Connect with me on ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) 
+Enviame un email a [![Gmail](https://img.shields.io/badge/Gmail-karen.gzrojas%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:karen.gzrojas@gmail.com)
 
-Enviame un email a ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+Follow me on [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/tuusuario)
+
+
+
